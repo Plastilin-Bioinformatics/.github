@@ -5,6 +5,6 @@
   
 The company site is - [https://plastilin.team/](https://plastilin.team/)
 
-This is a repository of the Bioinformatics department. Here we store our pipelines and scripts genomic data analysis. 
+This is a repository of the Bioinformatics department. Here we store our pipelines and scripts for genomic data analysis. 
 
 ---
